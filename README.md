@@ -1,2 +1,10 @@
-# Commit-Style-Agreement
-A simple convention for writing commit messages in AntHiLL
+# O Commit Style Agreement
+
+Это простое соглашение для стиля написания комментов внутри организации [AntHiLL](https://github.com/AntHIll-organization).\
+Данное соглашение имеет свойство изменчивости, то есть оно подвержено частому изменению.. :3
+
+Документ описывающий стандарт: [тут](docs/agreement.md)
+
+## Редакторы стандарта
+    
+- [Quinel](https://github.com/Qu1nel) (Иван Ковач)
