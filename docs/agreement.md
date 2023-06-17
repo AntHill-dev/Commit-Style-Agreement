@@ -122,6 +122,7 @@
 ---
 
 <h1 id="Источники">Источники</h1>
+
 * Книга "Про Git" (ProGit): https://git-scm.com/book/ru/v2
 * Пример хорошего сообщения к коммиту от Tim pope: https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
