@@ -209,6 +209,20 @@
 
 <h1 id="Английские-в-сообщениях">Английские в сообщениях коммита</h1>
 
+Если вы хотите написать коммит на английском языке, и при этом чтобы соблюдалось какое-то единое повествование от N людей. То придерживаетесь повелительного наклонения, в частности написания заголовком!
+
+А ещё лучше, просто возьмите на себе заметку, чтобы избежать путаницы, следуйте простому правилу: **правильно составленным заголовком сообщения коммита всегда можно продолжить фразу "if applied, this commit will, ..."** то есть: 
+
++ **If applied, this commit will** *<ваш заголовок>*
+
+Например:
+
++ if applied, this commit will ***refactor subsystem X for readablity***
++ if applied, this commit will ***update getting started documentation***
++ if applied, this commit will ***remove deprecated methods***
++ if applied, this commit will ***release version 1.0.12***
++ if applied, this commit will ***merge pull request #124 from user/branch***
+
 ---
 
 <h1 id="Источники">Источники</h1>
